@@ -1,0 +1,49 @@
+body{
+    background-color: lightgray;
+    font-family: 'Mukta', sans-serif;
+}
+.body-header{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 0;
+}
+.first-photo{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.top-left{
+    padding-left: 10px;
+    text-decoration: solid;
+}
+.top-right{
+    padding-right: 20px;
+    color: gray;
+}
+img{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.text-bottom{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
